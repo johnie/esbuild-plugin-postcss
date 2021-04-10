@@ -1,4 +1,4 @@
-(Huge thanks to https://github.com/koluch/esbuild-plugin-sass which this is based off)
+(Forked version of [@deanc/esbuild-plugin-postcss](https://github.com/deanc/esbuild-plugin-postcss) with personal modification)
 
 # esbuild-plugin-postcss
 
